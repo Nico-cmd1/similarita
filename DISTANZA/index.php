@@ -25,8 +25,6 @@
             $ipotenusa=sqrt(pow($cat1, 2) + pow($cat2, 2) + pow($cat3, 2));
 
             return $ipotenusa;
-
-
         }
 
 
