@@ -40,7 +40,6 @@
 
             $ipotenusa=sqrt($ipotenusa); 
             return $ipotenusa;
-
         }
 
         $pidgey = [40, 45, 40];
